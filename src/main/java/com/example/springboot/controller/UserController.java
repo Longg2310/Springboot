@@ -43,7 +43,6 @@ public class UserController {
         getinfo.add(infos.get(0).getUserName());
         getinfo.add(infos.get(0).getPassword());
         getinfo.add(infos.get(0).getFullName());
-        System.out.println( "SẠHDJMSAHGDJSAGHDJ");
         return getinfo;
     }
 
